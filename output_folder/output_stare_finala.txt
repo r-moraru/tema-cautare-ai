@@ -1,0 +1,426 @@
+
+==========================BFS==========================
+Timpul pentru gasirea solutiei:0.0
+Lungimea drumului: 1
+Costul drumului:0
+1)
+g = 0
+h = 0
+[a/5/14] 	[g/2/8]  	
+[c/3/10] 	[e/10/17]	
+
+________________________________
+
+==========================DFS==========================
+Timpul pentru gasirea solutiei:0.0
+Lungimea drumului: 1
+Costul drumului:0
+1)
+g = 0
+h = 0
+[a/5/14] 	[g/2/8]  	
+[c/3/10] 	[e/10/17]	
+
+________________________________
+Timpul pentru gasirea solutiei:0.0009911060333251953
+Lungimea drumului: 3
+Costul drumului:10
+1)
+g = 0
+h = 0
+[a/5/14] 	[g/2/8]  	
+[c/3/10] 	[e/10/17]	
+
+2)
+g = 5
+h = 1
+         	[a/5/14] 	
+         	[g/2/8]  	
+[c/3/10] 	[e/10/17]	
+
+3)
+g = 10
+h = 0
+[a/5/14] 	[g/2/8]  	
+[c/3/10] 	[e/10/17]	
+
+________________________________
+
+==========================DFI==========================
+Timpul pentru gasirea solutiei:0.0
+Lungimea drumului: 1
+Costul drumului:0
+1)
+g = 0
+h = 0
+[a/5/14] 	[g/2/8]  	
+[c/3/10] 	[e/10/17]	
+
+________________________________
+Timpul pentru gasirea solutiei:0.0
+Lungimea drumului: 3
+Costul drumului:10
+1)
+g = 0
+h = 0
+[a/5/14] 	[g/2/8]  	
+[c/3/10] 	[e/10/17]	
+
+2)
+g = 5
+h = 1
+         	[a/5/14] 	
+         	[g/2/8]  	
+[c/3/10] 	[e/10/17]	
+
+3)
+g = 10
+h = 0
+[a/5/14] 	[g/2/8]  	
+[c/3/10] 	[e/10/17]	
+
+________________________________
+
+==========================UCS==========================
+Timpul pentru gasirea solutiei:0.0
+Lungimea drumului: 1
+Costul drumului:0
+1)
+g = 0
+h = 0
+[a/5/14] 	[g/2/8]  	
+[c/3/10] 	[e/10/17]	
+
+________________________________
+
+========================== A* (naiv) - euristica banala ==========================
+Timpul pentru gasirea solutiei:0.0
+Lungimea drumului: 1
+Costul drumului:0
+1)
+g = 0
+h = 0
+[a/5/14] 	[g/2/8]  	
+[c/3/10] 	[e/10/17]	
+
+________________________________
+Timpul pentru gasirea solutiei:0.0009987354278564453
+Lungimea drumului: 3
+Costul drumului:4
+1)
+g = 0
+h = 0
+[a/5/14] 	[g/2/8]  	
+[c/3/10] 	[e/10/17]	
+
+2)
+g = 2
+h = 1
+[g/2/8]  	         	
+[a/5/14] 	         	
+[c/3/10] 	[e/10/17]	
+
+3)
+g = 4
+h = 0
+[a/5/14] 	[g/2/8]  	
+[c/3/10] 	[e/10/17]	
+
+________________________________
+Timpul pentru gasirea solutiei:0.0009987354278564453
+Lungimea drumului: 5
+Costul drumului:8
+1)
+g = 0
+h = 0
+[a/5/14] 	[g/2/8]  	
+[c/3/10] 	[e/10/17]	
+
+2)
+g = 2
+h = 1
+[g/2/8]  	         	
+[a/5/14] 	         	
+[c/3/10] 	[e/10/17]	
+
+3)
+g = 4
+h = 0
+[a/5/14] 	[g/2/8]  	
+[c/3/10] 	[e/10/17]	
+
+4)
+g = 6
+h = 1
+[g/2/8]  	         	
+[a/5/14] 	         	
+[c/3/10] 	[e/10/17]	
+
+5)
+g = 8
+h = 0
+[a/5/14] 	[g/2/8]  	
+[c/3/10] 	[e/10/17]	
+
+________________________________
+
+========================== A* (naiv) - euristica admisibila 1 ==========================
+Timpul pentru gasirea solutiei:0.0
+Lungimea drumului: 1
+Costul drumului:0
+1)
+g = 0
+h = 0
+[a/5/14] 	[g/2/8]  	
+[c/3/10] 	[e/10/17]	
+
+________________________________
+Timpul pentru gasirea solutiei:0.0
+Lungimea drumului: 3
+Costul drumului:4
+1)
+g = 0
+h = 0
+[a/5/14] 	[g/2/8]  	
+[c/3/10] 	[e/10/17]	
+
+2)
+g = 2
+h = 1
+[g/2/8]  	         	
+[a/5/14] 	         	
+[c/3/10] 	[e/10/17]	
+
+3)
+g = 4
+h = 0
+[a/5/14] 	[g/2/8]  	
+[c/3/10] 	[e/10/17]	
+
+________________________________
+Timpul pentru gasirea solutiei:0.0
+Lungimea drumului: 5
+Costul drumului:8
+1)
+g = 0
+h = 0
+[a/5/14] 	[g/2/8]  	
+[c/3/10] 	[e/10/17]	
+
+2)
+g = 2
+h = 1
+[g/2/8]  	         	
+[a/5/14] 	         	
+[c/3/10] 	[e/10/17]	
+
+3)
+g = 4
+h = 0
+[a/5/14] 	[g/2/8]  	
+[c/3/10] 	[e/10/17]	
+
+4)
+g = 6
+h = 1
+[g/2/8]  	         	
+[a/5/14] 	         	
+[c/3/10] 	[e/10/17]	
+
+5)
+g = 8
+h = 0
+[a/5/14] 	[g/2/8]  	
+[c/3/10] 	[e/10/17]	
+
+________________________________
+
+========================== A* (naiv) - euristica admisibila 2 ==========================
+Timpul pentru gasirea solutiei:0.0
+Lungimea drumului: 1
+Costul drumului:0
+1)
+g = 0
+h = 0
+[a/5/14] 	[g/2/8]  	
+[c/3/10] 	[e/10/17]	
+
+________________________________
+Timpul pentru gasirea solutiei:0.0
+Lungimea drumului: 3
+Costul drumului:4
+1)
+g = 0
+h = 0
+[a/5/14] 	[g/2/8]  	
+[c/3/10] 	[e/10/17]	
+
+2)
+g = 2
+h = 2
+[g/2/8]  	         	
+[a/5/14] 	         	
+[c/3/10] 	[e/10/17]	
+
+3)
+g = 4
+h = 0
+[a/5/14] 	[g/2/8]  	
+[c/3/10] 	[e/10/17]	
+
+________________________________
+Timpul pentru gasirea solutiei:0.0
+Lungimea drumului: 5
+Costul drumului:8
+1)
+g = 0
+h = 0
+[a/5/14] 	[g/2/8]  	
+[c/3/10] 	[e/10/17]	
+
+2)
+g = 2
+h = 2
+[g/2/8]  	         	
+[a/5/14] 	         	
+[c/3/10] 	[e/10/17]	
+
+3)
+g = 4
+h = 0
+[a/5/14] 	[g/2/8]  	
+[c/3/10] 	[e/10/17]	
+
+4)
+g = 6
+h = 2
+[g/2/8]  	         	
+[a/5/14] 	         	
+[c/3/10] 	[e/10/17]	
+
+5)
+g = 8
+h = 0
+[a/5/14] 	[g/2/8]  	
+[c/3/10] 	[e/10/17]	
+
+________________________________
+
+========================== A* (naiv) - euristica neadmisiblia ==========================
+Timpul pentru gasirea solutiei:0.0
+Lungimea drumului: 1
+Costul drumului:0
+1)
+g = 0
+h = 0
+[a/5/14] 	[g/2/8]  	
+[c/3/10] 	[e/10/17]	
+
+________________________________
+Timpul pentru gasirea solutiei:0.0
+Lungimea drumului: 3
+Costul drumului:4
+1)
+g = 0
+h = 0
+[a/5/14] 	[g/2/8]  	
+[c/3/10] 	[e/10/17]	
+
+2)
+g = 2
+h = 2
+[g/2/8]  	         	
+[a/5/14] 	         	
+[c/3/10] 	[e/10/17]	
+
+3)
+g = 4
+h = 0
+[a/5/14] 	[g/2/8]  	
+[c/3/10] 	[e/10/17]	
+
+________________________________
+Timpul pentru gasirea solutiei:0.0
+Lungimea drumului: 5
+Costul drumului:8
+1)
+g = 0
+h = 0
+[a/5/14] 	[g/2/8]  	
+[c/3/10] 	[e/10/17]	
+
+2)
+g = 2
+h = 2
+[g/2/8]  	         	
+[a/5/14] 	         	
+[c/3/10] 	[e/10/17]	
+
+3)
+g = 4
+h = 0
+[a/5/14] 	[g/2/8]  	
+[c/3/10] 	[e/10/17]	
+
+4)
+g = 6
+h = 2
+[g/2/8]  	         	
+[a/5/14] 	         	
+[c/3/10] 	[e/10/17]	
+
+5)
+g = 8
+h = 0
+[a/5/14] 	[g/2/8]  	
+[c/3/10] 	[e/10/17]	
+
+________________________________
+
+========================== A* (optimizat) - euristica banala ==========================
+Timpul pentru gasirea solutiei:0.0
+Lungimea drumului: 1
+Costul drumului:0
+1)
+g = 0
+h = 0
+[a/5/14] 	[g/2/8]  	
+[c/3/10] 	[e/10/17]	
+
+________________________________
+
+========================== A* (optimizat) - euristica admisibila 1 ==========================
+Timpul pentru gasirea solutiei:0.0
+Lungimea drumului: 1
+Costul drumului:0
+1)
+g = 0
+h = 0
+[a/5/14] 	[g/2/8]  	
+[c/3/10] 	[e/10/17]	
+
+________________________________
+
+========================== A* (optimizat) - euristica admisibila 2 ==========================
+Timpul pentru gasirea solutiei:0.0
+Lungimea drumului: 1
+Costul drumului:0
+1)
+g = 0
+h = 0
+[a/5/14] 	[g/2/8]  	
+[c/3/10] 	[e/10/17]	
+
+________________________________
+
+========================== A* (optimizat) - euristica neadmisibila ==========================
+Timpul pentru gasirea solutiei:0.0
+Lungimea drumului: 1
+Costul drumului:0
+1)
+g = 0
+h = 0
+[a/5/14] 	[g/2/8]  	
+[c/3/10] 	[e/10/17]	
+
+________________________________

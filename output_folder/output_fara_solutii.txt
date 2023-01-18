@@ -1,0 +1,114 @@
+
+==========================BFS==========================
+
+==========================DFS==========================
+
+==========================DFI==========================
+
+==========================UCS==========================
+Timpul pentru gasirea solutiei:0.0
+Lungimea drumului: 1
+Costul drumului:0
+1)
+g = 0
+h = 0
+[a/5/14]	        	
+[c/3/10]	[e/10/1]	
+
+________________________________
+
+========================== A* (naiv) - euristica banala ==========================
+Timpul pentru gasirea solutiei:0.0
+Lungimea drumului: 1
+Costul drumului:0
+1)
+g = 0
+h = 0
+[a/5/14]	        	
+[c/3/10]	[e/10/1]	
+
+________________________________
+
+========================== A* (naiv) - euristica admisibila 1 ==========================
+Timpul pentru gasirea solutiei:0.0
+Lungimea drumului: 1
+Costul drumului:0
+1)
+g = 0
+h = 0
+[a/5/14]	        	
+[c/3/10]	[e/10/1]	
+
+________________________________
+
+========================== A* (naiv) - euristica admisibila 2 ==========================
+Timpul pentru gasirea solutiei:0.0
+Lungimea drumului: 1
+Costul drumului:0
+1)
+g = 0
+h = 0
+[a/5/14]	        	
+[c/3/10]	[e/10/1]	
+
+________________________________
+
+========================== A* (naiv) - euristica neadmisiblia ==========================
+Timpul pentru gasirea solutiei:0.0
+Lungimea drumului: 1
+Costul drumului:0
+1)
+g = 0
+h = 0
+[a/5/14]	        	
+[c/3/10]	[e/10/1]	
+
+________________________________
+
+========================== A* (optimizat) - euristica banala ==========================
+Timpul pentru gasirea solutiei:0.0
+Lungimea drumului: 1
+Costul drumului:0
+1)
+g = 0
+h = 0
+[a/5/14]	        	
+[c/3/10]	[e/10/1]	
+
+________________________________
+
+========================== A* (optimizat) - euristica admisibila 1 ==========================
+Timpul pentru gasirea solutiei:0.0
+Lungimea drumului: 1
+Costul drumului:0
+1)
+g = 0
+h = 0
+[a/5/14]	        	
+[c/3/10]	[e/10/1]	
+
+________________________________
+
+========================== A* (optimizat) - euristica admisibila 2 ==========================
+Timpul pentru gasirea solutiei:0.0
+Lungimea drumului: 1
+Costul drumului:0
+1)
+g = 0
+h = 0
+[a/5/14]	        	
+[c/3/10]	[e/10/1]	
+
+________________________________
+
+========================== A* (optimizat) - euristica neadmisibila ==========================
+Timpul pentru gasirea solutiei:0.0
+Lungimea drumului: 1
+Costul drumului:0
+1)
+g = 0
+h = 0
+[a/5/14]	        	
+[c/3/10]	[e/10/1]	
+
+________________________________
